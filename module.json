@@ -1,0 +1,84 @@
+{
+  "name":"DnD5e_Homebrew-Pack",
+  "title":"DnD5e Homebrew Pack",
+  "description":"This shared Homebrew module is to help keep any future Homebrew Content made to be carried over to new worlds.",
+  "version":"1.0.0",
+  "author":"Benjamin P.",
+  "minimumCoreVersion":"0.5.0",
+  "compatibleCoreVersion":"9",
+  "packs": [
+    {
+      "name":"AmbianceMusic",
+	  "label":"Ambiance Music",
+	  "path":"packs/AmbianceMusic.db",
+	  "entity":"Playlist",
+	  "module":null
+    },
+    {
+      "name":"HomebrewMonsters",
+	  "label":"Homebrew Monsters",
+	  "path":"packs/HomebrewMonsters.db",
+	  "entity":"Actor",
+	  "module":null
+    },
+    {
+      "name":"NPCs",
+	  "label":"NPCs",
+	  "path":"packs/NPCs.db",
+	  "entity":"Actor",
+	  "module":null
+    },
+    {
+      "name":"Homebrew Backgrounds",
+	  "label":"Homebrew Backgrounds",
+	  "path":"packs/HomebrewBackgrounds.db",
+	  "entity":"Item",
+	  "module":null
+    },
+    {
+      "name":"Homebrew Classes",
+	  "label":"Homebrew Classes",
+	  "path":"packs/HomebrewClasses.db",
+	  "entity":"Item",
+	  "module":null
+    },
+    {
+      "name":"Homebrew Class Features",
+	  "label":"Homebrew Class Features",
+	  "path":"packs/HomebrewClassFeatures.db",
+	  "entity":"Item",
+	  "module":null
+    },
+    {
+      "name":"HomebrewGear",
+	  "label":"Homebrew Gear",
+	  "path":"packs/HomebrewGear.db",
+	  "entity":"Item",
+	  "module":null
+    },
+    {
+      "name":"HomebrewSpells",
+	  "label":"Homebrew Spells",
+	  "path":"packs/HomebrewSpells.db",
+	  "entity":"Item",
+	  "module":null
+    },
+    {
+      "name":"Homebrew SubClasses",
+	  "label":"Homebrew SubClasses",
+	  "path":"packs/HomebrewSubClasses.db",
+	  "entity":"Item",
+	  "module":null
+    },
+    {
+      "name":"HomebrewWondrousItems",
+	  "label":"Homebrew Wondrous Items",
+	  "path":"packs/HomebrewWondrousItems.db",
+	  "entity":"Item",
+	  "module":null
+    }
+  ],
+  "authors":[{"name":"Benjamin P."},{"name":"Alex G."}],
+  "manifest":"https://github.com/MetaDK/DnD5eHomebrewPack/releases/download/1.0.0/module.json",
+  "download":"https://github.com/MetaDK/DnD5eHomebrewPack/releases/download/1.0.0/DnD5eHomebrewPack.zip"
+}
