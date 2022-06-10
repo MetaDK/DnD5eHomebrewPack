@@ -1,16 +1,16 @@
 {
   "name":"DnD5e_Homebrew-Pack",
   "title":"DnD5e Homebrew Pack",
-  "description":"This shared Homebrew module is to help keep any future Homebrew Content made to be carried over to new worlds.",
+  "description":"This Homebrew module adds additional homebrewed content to most D&D5e Campaigns. With new homebrewed Classes & SubClasses, Class Features, Backgrounds, NPCs, Monsters, Gear, & even Wondrous Items!",
   "version":"1.0.0",
   "author":"Benjamin P.",
   "minimumCoreVersion":"0.5.0",
   "compatibleCoreVersion":"9",
   "packs": [
     {
-      "name":"AmbianceMusic",
-	  "label":"Ambiance Music",
-	  "path":"packs/AmbianceMusic.db",
+      "name":"Music",
+	  "label":"Music",
+	  "path":"packs/Music.db",
 	  "entity":"Playlist",
 	  "module":null
     },
@@ -78,6 +78,7 @@
 	  "module":null
     }
   ],
+  "url": "https://github.com/MetaDK/DnD5eHomebrewPack",
   "authors":[{"name":"Benjamin P."},{"name":"Alex G."}],
   "manifest":"https://github.com/MetaDK/DnD5eHomebrewPack/releases/download/1.0.0/module.json",
   "download":"https://github.com/MetaDK/DnD5eHomebrewPack/releases/download/1.0.0/DnD5eHomebrewPack.zip"
